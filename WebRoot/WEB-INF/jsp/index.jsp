@@ -5,7 +5,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>客户关系管理系统</title>
+<title>哈尔滨银行信用卡中心综合管理系统后台</title>
 
 <STYLE>
 .main_header{width:100%;height:64px;margin:0px;background:url("${path}/img/login_bg.jpg") repeat-x;overflow: hidden;}
@@ -88,7 +88,7 @@
             <div class="easyui-tabs" id="mainTabs" fit="true" border="false">  
                 <div title="欢迎使用" style="padding:20px;">   
                     <div style="margin-top:20px; float:left;min-width:600px;widht: 600px; height: 90%; ">  
-                        <h1 style="font-size:24px;">欢迎使用项目管理系统</h1>
+                        <h1 style="font-size:24px;">欢迎使用哈尔滨银行信用卡中心综合管理系统</h1>
                     </div>  
                 </div>  
             </div>  
@@ -96,7 +96,7 @@
         
         <!-- 正下方panel -->  
         <div region="south" style="height:24px;line-height:22px;" align="center">  
-            <label style="font-size:11px;">CRM-V5.0&nbsp;&nbsp;&nbsp;[&nbsp;walk_hai@163.com&nbsp;]</label>  
+            <label style="font-size:11px;">CRM-V5.0&nbsp;&nbsp;&nbsp;[&nbsp;zhangmin@hrbb.com.cn&nbsp;]</label>  
         </div>   
     </body>
 </html>

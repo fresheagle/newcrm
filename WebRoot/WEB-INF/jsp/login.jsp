@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>XXX管理系统后台</title>
+<title>哈尔滨银行信用卡中心综合管理系统后台</title>
 
 <link rel="stylesheet" type="text/css" href="css/login.css">
 
